@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${workspaceFolder}/node_modules/.bin;${workspaceFolder}/.venv/Scripts;D:\\depot_tools;${env:PATH};",
+        "PIPENV_VENV_IN_PROJECT": "${workspaceFolder}/.venv"
+    },
+    "python.pythonPath": "D:\\_Project\\murnana.github.io\\.venv\\Scripts\\python.exe",
+    "python.linting.enabled": false,
+}
